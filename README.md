@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! 💛
 
-<!--
-**prcgylw/prcgylw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro, tenho 16 anos e estou cursando programaçao!
 
-Here are some ideas to get you started:
+- Estou estudando JavaScript 💀
+- Fui forçado a criar uma conta nesse site 🧏‍♂️
+- Faço o curso da Alura :rainbow:
+- (Infelizemente) Vou fazer uso desse site para minha organização e compartilhamento de projetos desenvolvidos 😺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus contatos são...
+
+- E-mail: pdrcg0102@gmail.com
+- Instagram: @prcg2_
+- Discord: trixye08
+- Youtube: Astalav
+
