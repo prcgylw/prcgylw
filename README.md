@@ -14,4 +14,4 @@ Meu nome é Pedro, tenho 16 anos e estou cursando programaçao!
 - Discord: trixye08
 - Youtube: Astalav
 
-![](https://preview.redd.it/dumps-all-my-omori-gifs-spoilers-on-second-and-last-slides-v0-wnys5ifeiab91.gif?width=362&auto=webp&s=f1edae0d65a830057031e1cd8409ab85c169bf91)
+![]([https://preview.redd.it/dumps-all-my-omori-gifs-spoilers-on-second-and-last-slides-v0-wnys5ifeiab91.gif?width=362&auto=webp&s=f1edae0d65a830057031e1cd8409ab85c169bf91]https://images.steamusercontent.com/ugc/92727459190780226/D85F0C5923A99594E238C7CE020470C74FE2AEEA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
