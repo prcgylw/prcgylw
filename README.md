@@ -11,7 +11,8 @@ Meu nome é Pedro, tenho 16 anos e estou cursando programaçao!
 
 - E-mail: pdrcg0102@gmail.com
 - Instagram: @prcg2_
-- Discord: trixye08
+- Discord: ylw08
 - Youtube: Astalav
+- Roblox: pedro2304(ABM_Kiki)
 
 ![](https://images.steamusercontent.com/ugc/92727459190780226/D85F0C5923A99594E238C7CE020470C74FE2AEEA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
